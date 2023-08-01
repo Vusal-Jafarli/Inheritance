@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\jafar\OneDrive\Masaüstü\ara\Project2\Project2\Source.cpp(333,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\jafar\OneDrive\Masaüstü\ara\Project2\Project2\Source.cpp(353,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jafar\OneDrive\Masaüstü\ara\Project2\Project2\Source.cpp(354,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project2.vcxproj -> C:\Users\jafar\OneDrive\Masaüstü\ara\Project2\x64\Debug\Project2.exe
